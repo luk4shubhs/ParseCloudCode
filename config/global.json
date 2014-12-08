@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "Selfie Per Second": {
+            "applicationId": "lE3kn78Qr1VbdAU00ZXKSCvK9T1JaypWNVBJlgWX", 
+            "masterKey": "X2t9I5qXLDaBWI5h9S1kyipt8564Yuke8IO9fwFI"
+        }, 
+        "_default": {
+            "link": "Selfie Per Second"
+        }
+    }
+}
